@@ -1,0 +1,45 @@
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\bin\Debug\bricks.exe
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\bin\Debug\bricks.pdb
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\bin\Debug\bricks.xml
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\bricks.Form1.resources
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\bricks.Resources.resources
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\bricks.exe
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\bricks.xml
+C:\Documents and Settings\adico\Local Settings\Application Data\Temporary Projects\bricks\obj\x86\Debug\bricks.pdb
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\bricks.exe
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\bricks.xml
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\bricks.pdb
+E:\PAG\proiect\bricks\bricks\bin\Debug\bricks.exe
+E:\PAG\proiect\bricks\bricks\bin\Debug\bricks.pdb
+E:\PAG\proiect\bricks\bricks\bin\Debug\bricks.xml
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\bricks.Form1.resources
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\bricks.Resources.resources
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PAG\proiect\bricks\bricks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\bricks.exe
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\bricks.xml
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\bricks.pdb
+C:\Documents and Settings\adico\Desktop\bricks\bricks\bin\Debug\bricks.exe
+C:\Documents and Settings\adico\Desktop\bricks\bricks\bin\Debug\bricks.pdb
+C:\Documents and Settings\adico\Desktop\bricks\bricks\bin\Debug\bricks.xml
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\bricks.Form1.resources
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\bricks.Resources.resources
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\adico\Desktop\bricks\bricks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.exe
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.xml
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.pdb
+C:\Users\Duduman\Desktop\bricks\bricks\bin\Debug\bricks.exe
+C:\Users\Duduman\Desktop\bricks\bricks\bin\Debug\bricks.pdb
+C:\Users\Duduman\Desktop\bricks\bricks\bin\Debug\bricks.xml
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.Form1.resources
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.Resources.resources
+C:\Users\Duduman\Desktop\bricks\bricks\obj\x86\Debug\bricks.vbproj.GenerateResource.Cache
+C:\Documents and Settings\adico\Desktop\bun\bricks\bricks\obj\x86\Debug\bricks.exe
+C:\Documents and Settings\adico\Desktop\bun\bricks\bricks\obj\x86\Debug\bricks.xml
+C:\Documents and Settings\adico\Desktop\bun\bricks\bricks\obj\x86\Debug\bricks.pdb
